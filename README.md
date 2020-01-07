@@ -1,0 +1,1 @@
+Simple glowing javascript digital clock.

@@ -1,0 +1,14 @@
+body {
+    background: black;
+    font-family: 'Courier Prime', monospace;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 7vw;
+    text-shadow: 0 0 5vw greenyellow;
+}
